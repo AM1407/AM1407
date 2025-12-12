@@ -48,27 +48,16 @@
 </div>
 
 ---
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" />
-  
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-success?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/UPTIME-99.9%25-blue?style=for-the-badge" />
+  📫 Init_Connection
 </div>
 
----
-
-<div align="center">
-  
-  ### 📫 Init_Connection
-  
+  <div align="center">
   <a href="https://www.linkedin.com/in/alessio-micciche/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="75px"/>
   </a>
   <a href="mailto:alessiomicciche@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Send%20Packet-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Email" width="75px"/>
   </a>
   
 </div>
